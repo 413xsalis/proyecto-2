@@ -1,3 +1,16 @@
 body{
-    background:aqua ;
+    background:rgb(250, 250, 250) ;
+    color: 333;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: small;
+    margin: 0%;
+    padding: 0%;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid darkgoldenrod;
+    
 }
