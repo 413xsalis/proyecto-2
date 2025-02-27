@@ -14,3 +14,10 @@ body{
     border: 1px solid darkgoldenrod;
     
 }
+
+#footer{
+    background: grey;
+    color: white;
+    text-align: center;
+    border: 1px solid blue;
+}
