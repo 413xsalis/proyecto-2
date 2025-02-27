@@ -18,6 +18,18 @@ body{
     width: 70%;
     padding: 1em;
     text-align: center;
+<<<<<<< HEAD
     border: 1px solid rgb(67, 3, 47);
 
+=======
+    border: 1px solid darkgoldenrod;
+    
+}
+
+#footer{
+    background: grey;
+    color: white;
+    text-align: center;
+    border: 1px solid blue;
+>>>>>>> footer
 }
