@@ -10,10 +10,8 @@ body{
 #header{
     background: 33cap;
     box-shadow: 0px 2px 20px 0px gray;
-    color: white;
-    font-weight: bold;
-    width: 0px;
-    height: 0px;
+    color: rgb(156, 21, 21);
+
 }
 
 #container{
